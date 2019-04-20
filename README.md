@@ -9,22 +9,12 @@ Original website: https://www.kaggle.com/c/titanic
 
 
 
-### Prerequisites
-
-
-
-```
-Give examples
-```
-
 
 
 ## Running the tests
 
 
-```
-Give an example
-```
+
 
 ## Contributing
  

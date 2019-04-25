@@ -1,4 +1,4 @@
-# Kaggle_titanic-challenge-test# Project Title
+# Kaggle_titanic-challenge-test
 
 "Titanic: Machine Learning from Disaster"
 

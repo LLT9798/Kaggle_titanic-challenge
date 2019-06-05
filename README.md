@@ -12,12 +12,7 @@ KNN,
 Decision Tree, 
 Random Forest Classification
 
-## Apply test.csv and Submite
+## Apply test.csv and Submite to Kaggle
 Pick the best performace algorithm in train.csv. 
 Then apply to test.csv for prediction and submit the prediction to Kaggle.
-
-## Conclusion
-
-## Submit to Kaggle
-
 

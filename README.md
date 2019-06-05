@@ -18,6 +18,6 @@ Then apply to test.csv for prediction and submit the prediction to Kaggle.
 
 ## Conclusion
 
-## Submit
+## Submit to Kaggle
 
 
